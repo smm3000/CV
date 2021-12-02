@@ -21,21 +21,26 @@ Senior Finance Analyst
 KPMG (Oct 2015 to Feb 2020)  
 Assistant Manager 
 
+* Led a number of engagements across different clients and industries. 
 * Completed charted accountancy qualifications whilst working full-time. 
 
 ## Skills
 
  **Team Player**
 
-* Worked in a number of diverse teams across different engagements and projects throughout my career - enjoy joining and working alongside a team.
+* Worked in a number of diverse teams across different projects throughout my career - I enjoy joining and working alongside different teams. 
 
 **Attention to detail**
 
-* Throughout my previous career roles - attention to detail has been an important skill which I have been able to develop as part of my previous career. 
+* Throughout my previous career roles - attention to detail has been an important skill which I have been able to develop throughout my career. 
 
 **Quick Learner**
 
-* I thrive on learning new things & understanding how they work.
+* I thrive on learning new things & understanding how things work.
+
+**Analytical Mindset**
+
+* A key skill I have developed is the ability to analyse and solve a variety of problems. 
 
 ## Education
 
