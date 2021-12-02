@@ -13,13 +13,13 @@ I feel that I am only at the start of my journey - but I'm excited to be learnin
 ## Work Experience
 
 Expedia (Mar 2020 to Nov 2021)  
-Senior Finance Analyst
+*Senior Finance Analyst*
 
 * Worked cross-functionally with Product & Tech on a number of customer-focused solutions.
 * Led a re-design project for a key marketing business area. 
 
 KPMG (Oct 2015 to Feb 2020)  
-Assistant Manager 
+*Assistant Manager*
 
 * Led a number of engagements across different clients and industries. 
 * Completed charted accountancy qualifications whilst working full-time. 
