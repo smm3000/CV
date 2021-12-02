@@ -1,6 +1,7 @@
-## Your Name
+## Samir Malik 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Currently a student at Makers Academy learning software development. Experience working in Finance & started my career in the big 4. 
+I feel that I am only at the start of my journey - but I'm excited to be learning Coding & seeing what's possible in the world of software development.
 
 ## Projects
 
@@ -11,49 +12,34 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Expedia (Mar 2020 to Nov 2021)  
+Senior Finance Analyst
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+* Worked cross-functionally with Product & Tech on a number of customer-focused solutions.
+* Led a re-design project for a key marketing business area. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+KPMG (Oct 2015 to Feb 2020)  
+Assistant Manager 
 
-- Any experience relevent to software development
+* Completed charted accountancy qualifications whilst working full-time. 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+ **Team Player**
 
--STAR
--What was the situation/task? (ST)
+* Worked in a number of diverse teams across different engagements and projects throughout my career - enjoy joining and working alongside a team.
 
--How was the skill used?
+**Attention to detail**
 
--What did you do? (action)
+* Throughout my previous career roles - attention to detail has been an important skill which I have been able to develop as part of my previous career. 
 
--What was the result?
+**Quick Learner**
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+* I thrive on learning new things & understanding how they work.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Nov 2021 to current)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +48,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### ICAEW - ACA (2015 - 2019)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- ACA - Professional Qualification as a Chartered Accountant.
 
-#### Any other qualifications
+#### University of Kent / College (2011 - 2014)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Economics with Econometrics 
+- 2:1 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Sports
+- Gastronomy
+- Fifa
