@@ -13,6 +13,8 @@ Whilst working at a large tech firm I was lucky enough to work with Tech/Product
 
 I am looking forward to sharing my skills and working as part of a team on interesting problems. 
 
+Please find a copy of my CV here. 
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
