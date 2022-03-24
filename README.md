@@ -15,6 +15,8 @@ I am looking forward to sharing my skills and working as part of a team on inter
 
 Please find a copy of my CV here. 
 
+[Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) |  
+
 ## Projects
 
 | Name                         | Description        | Timeframe             | Tech/tools            |
