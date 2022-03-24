@@ -43,19 +43,19 @@ KPMG (Oct 2015 to Feb 2020)
 
  **Team Player**
 
-* Worked in a number of diverse teams across different projects throughout my career - I enjoy joining and working alongside different teams. 
+* Worked in a number of diverse teams across different projects throughout my career - I enjoy joining and working alongside different teams. In some of my previous roles I have also been lucky enough to lead on projects/teams. 
 
 **Attention to detail**
 
-* Throughout my previous career roles - attention to detail has been an important skill which I have been able to develop throughout my career. 
+* Throughout my previous career roles - attention to detail has been an important skill which I have been able to develop throughout my career. This is something that has proven to be important whilst learning software development. 
 
-**Quick Learner**
+**Enjoy Learning**
 
-* I thrive on learning new things & understanding how things work.
+* I thrive on learning new things & understanding how things work. Throughout my previous roles and during my time at Makers I've really enjoyed learning new things about software development. For example during my final project at Makers - I was able to begin learning a new tech stack and learning how to apply it in our project. 
 
 **Analytical Mindset**
 
-* A key skill I have developed is the ability to analyse and solve a variety of problems. 
+* Throughout my previous roles, I have been able to develop the ability to analyse and solve a variety of problems. I really thrive in a role where I can analyse problems and come up with solutions. 
 
 ## Education
 
