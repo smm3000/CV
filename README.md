@@ -1,4 +1,4 @@
-## Samir Malik 
+                                                                      ## Samir Malik 
 
 Currently a student at Makers Academy learning software development. Experience working in Finance & started my career in the big 4. 
 I feel that I am only at the start of my journey - but I'm excited to be learning Coding & seeing what's possible in the world of software development.
