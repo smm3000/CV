@@ -60,13 +60,13 @@ KPMG (Oct 2015 to Feb 2020)
 ## Education
 
 #### Makers Academy (Nov 2021 to current)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- TDD: Test Driven Development and Behaviour Driven Development
+- OOP: Using SOLID principles and applying OOD
+- REST APIs: Building and using APIs
+- Agile & XP: Breaking down issues into user stories and MVPs, running stand-ups, retros and sprints
+- Databases: Using SQL and PostgreSQL for Relational and non-relational
+- CI/CD: Using Github Actions to automate builds and run test suites
+- Pair Programming: Significant time spent collaborating and pairing with other developers
 
 #### ICAEW - ACA (2015 - 2019)
 
