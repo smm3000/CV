@@ -5,6 +5,8 @@
  <a href="https://uk.linkedin.com/in/samir-malik-83b54175/">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+</div>
+
 I am a motivated full-stack developer and recent graduate of Makers Academy. Before embarking on my career as a software developer I worked in finance and started my career at a big4 firm.
 
 Whilst working at a large tech firm I was lucky enough to work with Tech/Product teams which sparked my interest in software development. I am passionate about learning different technologies and improving my skills as a developer. 
