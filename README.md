@@ -28,14 +28,16 @@ Please find a copy of my CV here.
 Expedia (Mar 2020 to Nov 2021)  
 *Senior Finance Analyst*
 
-* Worked cross-functionally with Product & Tech on a number of customer-focused solutions.
-* Led a re-design project for a key marketing business area. 
+* Worked cross-functionally with Product & Tech on a number of customer-focused solutions that reduced financial and operation risk to the business. 
+* Led a significant process re-design project for a coupons, which was a key marketing lever across brands and regions. 
+* Responsible for financial reporting and processes for significant marketing spend areas of the business.
 
 KPMG (Oct 2015 to Feb 2020)  
 *Assistant Manager*
 
-* Led a number of engagements across different clients and industries. 
-* Completed charted accountancy qualifications whilst working full-time. 
+* Led a number of engagements that involved working and communicating with multiple internal and external stakeholders.
+* Had a wide range of clients that were in different industries - this involved using problem solving and analysis skills on a wide-range of issues. 
+* Completed chartered accountancy qualifications whilst working full-time. 
 
 ## Skills
 
