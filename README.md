@@ -17,10 +17,11 @@ Please find a copy of my CV here.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description        | Timeframe             | Tech/tools            |
+| ---------------------------- | -----------------   | --------------                | -----------------     |
+| **[WonderPost](https://github.com/robinucar/travel-log)**  | A blog web app where users can post their travel experiences and read other users travel stories and search posts by destination name |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
+| **[Acebook](https://github.com/hannahdesmond/acebook-CHATS)**| A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku. |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
+| **[Makersbnb](https://github.com/cris-ch/MakersBNB5)**  |  A webapp clone of Airbnb  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
 
 ## Work Experience
 
