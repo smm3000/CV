@@ -11,6 +11,7 @@ I am a motivated full-stack developer and recent graduate of Makers Academy. Bef
 
 Whilst working at a large tech firm I was lucky enough to work with Tech/Product teams which sparked my interest in software development. I am passionate about learning different technologies and improving my skills as a developer. 
 
+I am looking forward to sharing my skills and working as part of a team on interesting problems. 
 
 ## Projects
 
