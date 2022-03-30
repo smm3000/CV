@@ -13,7 +13,7 @@ Whilst working at a large tech firm I was lucky enough to work with Tech/Product
 
 I am looking forward to sharing my skills and working as part of a team on interesting problems. 
 
-Please find a pdf version of my [CV](https://github.com/smm3000/CV/blob/master/Samir%20Malik%20CV%20Github.pdf)
+Please find a [pdf version](https://docs.google.com/document/d/1fPh1ph25ZfBskb2Yy9rBjXkcYdvNE4Yb1LizxBR8IYI/edit?usp=sharing) of my CV here. 
 
 [Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) |  
 
