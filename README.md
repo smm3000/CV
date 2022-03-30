@@ -2,7 +2,7 @@
 <h1 align="center"> Samir Malik </h1>
 
 <div align="center">
- <a href="https://uk.linkedin.com/in/samir-malik-83b54175/">
+ <a href="https://uk.linkedin.com/samirmalik3000">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
