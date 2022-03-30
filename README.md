@@ -30,16 +30,19 @@ Please find a [pdf version](https://docs.google.com/document/d/1fPh1ph25ZfBskb2Y
 Expedia (Mar 2020 to Nov 2021)  
 *Senior Finance Analyst*
 
-* Worked cross-functionally with Product & Tech on a number of customer-focused solutions that reduced financial and operation risk to the business. 
-* Led a significant process re-design project for a coupons, which was a key marketing lever across brands and regions. 
-* Responsible for financial reporting and processes for significant marketing spend areas of the business.
+* Worked cross-functionally with Product & Technology teams to create and implement customer-focused solutions across different business areas.
+* Oversaw process reviews, including creating and implementing procedures to minimise risk and promote consistency across brands. Worked collaboratively with various departments to assess and incorporate stakeholder priorities.
+* Led the coupon process redesign across Expedia Group. This project involved understanding and analysing customer experience, market needs, internal user requirements and risk. Final deliverables culminated in several product changes and new business processes. 
+
 
 KPMG (Oct 2015 to Feb 2020)  
 *Assistant Manager*
 
-* Led a number of engagements that involved working and communicating with multiple internal and external stakeholders.
-* Had a wide range of clients that were in different industries - this involved using problem solving and analysis skills on a wide-range of issues. 
-* Completed chartered accountancy qualifications whilst working full-time. 
+* Conducted ISA compliant audits on various clients from FTSE 100 companies to SMEs across multiple sectors. 
+* Leveraged communication skills to build relationships with clients and senior stakeholders across a variety of business sectors. 
+* Led on several client engagement opportunities, with strong experience in gathering information, understanding requirements and questioning judgments made. Ability to identify and resolve issues across different business cases.
+* Completed the ICAEW ACA qualification whilst working full-time. 
+
 
 ## Skills
 
