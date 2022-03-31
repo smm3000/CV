@@ -21,9 +21,9 @@ Please find a [pdf version](https://docs.google.com/document/d/1fPh1ph25ZfBskb2Y
 
 | Name                         | Description        | Timeframe             | Tech/tools            |
 | ---------------------------- | -----------------   | --------------                | -----------------     |
-| **[WanderPost](https://github.com/robinucar/travel-log)**  | A blog web app where users can post their travel experiences and read other users travel stories and search posts by destination name |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
-| **[Acebook](https://github.com/hannahdesmond/acebook-CHATS)**| A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku. |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
-| **[Makersbnb](https://github.com/cris-ch/MakersBNB5)**  |  A webapp clone of Airbnb  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
+| **[WanderPost](https://github.com/smm3000/travel-log)**  | A blog web app where users can post their travel experiences and read other users travel stories and search posts by destination name |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
+| **[Acebook](https://github.com/smm3000/acebook-CHATS)**| A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku. |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
+| **[Makersbnb](https://github.com/smm3000/MakersBNB5)**  |  A webapp clone of Airbnb  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
 
 ## Work Experience
 
