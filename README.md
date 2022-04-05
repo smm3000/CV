@@ -46,7 +46,7 @@ KPMG (Oct 2015 to Feb 2020)
 
  **Team Player**
 
-* Worked in a number of diverse teams across different projects throughout my career, I also have expereience in leading on projects and teams. During my time at Makers, I was able to apply this skill whilst working in a group of software developers towards a project objective.
+* Worked in a number of diverse teams across different projects throughout my career, I also have expereience in leading on projects and teams. During my time at Makers, I was able to apply this skill whilst working in a group of software developers on a project.
 
 **Attention to Detail**
 
