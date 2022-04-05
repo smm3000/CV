@@ -36,7 +36,7 @@ Expedia (Mar 2020 to Nov 2021)
 KPMG (Oct 2015 to Feb 2020)  
 *Assistant Manager*
 
-* Conducted ISA compliant audits on various clients from FTSE 100 companies to SMEs across multiple sectors. 
+* Conducted ISA compliant audits on various clients from FTSE 100 companies to small/medium enterprises across multiple sectors. 
 * Leveraged communication skills to build relationships with clients and senior stakeholders across a variety of business sectors. 
 * Led on several client engagement opportunities, with strong experience in gathering information, understanding requirements and questioning judgments made. Ability to identify and resolve issues across different business cases.
 * Completed the ICAEW ACA qualification whilst working full-time. 
