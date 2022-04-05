@@ -20,8 +20,8 @@ Please find a [pdf version](https://docs.google.com/document/d/1EJOoCcIJob_1NkKg
 | Name                         | Description        | Timeframe             | Tech/tools            |
 | ---------------------------- | -----------------   | --------------                | -----------------     |
 | **[WanderPost](https://github.com/smm3000/travel-log)**  | A social media web app where users can post their travel experiences, read other users' travel stories and search posts by destination |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
-| **[Acebook](https://github.com/smm3000/acebook-CHATS)**| A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku. |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
-| **[Makersbnb](https://github.com/smm3000/MakersBNB5)**  |  A webapp clone of Airbnb  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
+| **[Acebook](https://github.com/smm3000/acebook-CHATS)**| A clone of Facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku. |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
+| **[Makersbnb](https://github.com/smm3000/MakersBNB5)**  |  A webapp clone of AirBnB  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
 
 ## Work Experience
 
@@ -46,19 +46,19 @@ KPMG (Oct 2015 to Feb 2020)
 
  **Team Player**
 
-* Worked in a number of diverse teams across different projects throughout my career - I enjoy working alongside different teams. In both of my previous roles I have been lucky enough to lead on projects/teams. During my time at Makers, I was able to apply this skill whilst working in a group of software developers towards a project objective.
+* Worked in a number of diverse teams across different projects throughout my career, I also have expereience in leading on projects and teams. During my time at Makers, I was able to apply this skill whilst working in a group of software developers towards a project objective.
 
-**Attention to detail**
+**Attention to Detail**
 
-* Throughout my previous career - attention to detail has been an important skill which I have been able to develop throughout my career. This is in part due to the compliance and technical nature of working in high-pressure finance teams. This skill was equally important during my time at Makers and has helped whilst I have been learning software development. 
+* Throughout my previous roles attention to detail has been an important skill which I have been able to develop throughout my career. This is in part due to the compliance and technical nature of working in high-pressure finance teams. This skill was equally important during my time at Makers and has helped whilst learning software development. 
 
-**Enjoy Learning**
+**Passion for Learning**
 
-* I thrive on learning new things & understanding how things work. During my time at KPMG I had to take external professional qualification exams and have experience in learning and developing whilst working. Whilst at Makers I've really enjoyed learning new technologies and tools, during my final project - I was able to learn and apply a new tech stack which was an exciting experience.
+* I thrive on learning new things & understanding how things work. During my time at KPMG I had to take external professional exams and maintain my continual professional knowledge. This provided me with experience in learning new concepts and tools in a fast-paced working environment. Whilst at Makers I've enjoyed learning new technologies and tools, during my final project I was able to learn and apply a new tech stack which was an exciting experience.
 
 **Analytical Mindset**
 
-* Throughout my previous roles, I have been able to develop the ability to analyse and solve a variety of problems. I have been fortunate to be able to apply this mindest and problem solving skills across a number of different sized clients across a range of sectors. During my time at Makers - solving problems and analysing issues really helped my software development skills. I thrive and enjoy roles where I can analyse problems and come up with solutions. 
+* Throughout my previous roles, I have been able to develop the ability to analyse and solve complex problems. I have experience in applying this mindest and problem solving skills across a number of different sized clients across a range of sectors. During my time at Makers - solving problems and analysing issues helped my software development skills. I thrive and enjoy roles where I can analyse problems and come up with solutions. 
 
 ## Education
 
