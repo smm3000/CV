@@ -46,15 +46,15 @@ KPMG (Oct 2015 to Feb 2020)
 
  **Team Player**
 
-* Worked in a number of diverse teams across different projects throughout my career - I enjoy joining and working alongside different teams. In both of my previous roles I have also been lucky enough to lead on projects/teams and worked on large cross-functional teams. During my time at Makers, I was lucky enough to work on a number of projects with different teams.
+* Worked in a number of diverse teams across different projects throughout my career - I enjoy working alongside different teams. In both of my previous roles I have been lucky enough to lead on projects/teams. During my time at Makers, I was able to apply this skill whilst working in a group of software developers towards a project objective.
 
 **Attention to detail**
 
-* Throughout my previous career roles - attention to detail has been an important skill which I have been able to develop throughout my career. This is in part due to the compliance and technical nature of working in high-pressure finance teams. This skill was equally important during my time at Makers and has helped whilst I have been learning software development. 
+* Throughout my previous career - attention to detail has been an important skill which I have been able to develop throughout my career. This is in part due to the compliance and technical nature of working in high-pressure finance teams. This skill was equally important during my time at Makers and has helped whilst I have been learning software development. 
 
 **Enjoy Learning**
 
-* I thrive on learning new things & understanding how things work. During my time at KPMG I had to take external professional qualification exams and have experience in learning new things. Whilst at Makers I've really enjoyed learning new technologies and tools, during my final project at Makers - I was able to begin learning a new tech stack which was an exciting experience.
+* I thrive on learning new things & understanding how things work. During my time at KPMG I had to take external professional qualification exams and have experience in learning and developing whilst working. Whilst at Makers I've really enjoyed learning new technologies and tools, during my final project - I was able to learn and apply a new tech stack which was an exciting experience.
 
 **Analytical Mindset**
 
