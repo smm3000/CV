@@ -67,7 +67,7 @@ KPMG (Oct 2015 to Feb 2020)
 - OOP: Using SOLID principles and applying OOD
 - REST APIs: Building and using APIs
 - Agile & XP: Breaking down issues into user stories and MVPs, running stand-ups, retros and sprints
-- Databases: Using SQL and PostgreSQL for Relational and non-relational
+- Databases: Using SQL and PostgreSQL for relational and non-relational
 - CI/CD: Using Github Actions to automate builds and run test suites
 - Pair Programming: Significant time spent collaborating and pairing with other developers
 
