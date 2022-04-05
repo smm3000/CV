@@ -84,4 +84,4 @@ KPMG (Oct 2015 to Feb 2020)
 
 - Sports
 - Gastronomy
-- Fifa
+- Gaming - fifa
