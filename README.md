@@ -19,7 +19,7 @@ Please find a [pdf version](https://docs.google.com/document/d/1EJOoCcIJob_1NkKg
 
 | Name                         | Description        | Timeframe             | Tech/tools            |
 | ---------------------------- | -----------------   | --------------                | -----------------     |
-| **[WanderPost](https://github.com/smm3000/travel-log)**  | A blog web app where users can post their travel experiences and read other users travel stories and search posts by destination name |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
+| **[WanderPost](https://github.com/smm3000/travel-log)**  | A social media web app where users can post their travel experiences, read other users' travel stories and search posts by destination |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
 | **[Acebook](https://github.com/smm3000/acebook-CHATS)**| A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku. |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
 | **[Makersbnb](https://github.com/smm3000/MakersBNB5)**  |  A webapp clone of Airbnb  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
 
@@ -46,19 +46,19 @@ KPMG (Oct 2015 to Feb 2020)
 
  **Team Player**
 
-* Worked in a number of diverse teams across different projects throughout my career - I enjoy joining and working alongside different teams. In some of my previous roles I have also been lucky enough to lead on projects/teams. 
+* Worked in a number of diverse teams across different projects throughout my career - I enjoy joining and working alongside different teams. In both of my previous roles I have also been lucky enough to lead on projects/teams and worked on large cross-functional teams. During my time at Makers, I was lucky enough to work on a number of projects with different teams.
 
 **Attention to detail**
 
-* Throughout my previous career roles - attention to detail has been an important skill which I have been able to develop throughout my career. This is something that has proven to be important whilst learning software development. 
+* Throughout my previous career roles - attention to detail has been an important skill which I have been able to develop throughout my career. This is in part due to the compliance and technical nature of working in high-pressure finance teams. This skill was equally important during my time at Makers and has helped whilst I have been learning software development. 
 
 **Enjoy Learning**
 
-* I thrive on learning new things & understanding how things work. Throughout my previous roles and during my time at Makers I've really enjoyed learning new things about software development. For example during my final project at Makers - I was able to begin learning a new tech stack and learning how to apply it in our project. 
+* I thrive on learning new things & understanding how things work. During my time at KPMG I had to take external professional qualification exams and have experience in learning new things. Whilst at Makers I've really enjoyed learning new technologies and tools, during my final project at Makers - I was able to begin learning a new tech stack which was an exciting experience.
 
 **Analytical Mindset**
 
-* Throughout my previous roles, I have been able to develop the ability to analyse and solve a variety of problems. I really thrive in a role where I can analyse problems and come up with solutions. 
+* Throughout my previous roles, I have been able to develop the ability to analyse and solve a variety of problems. I have been fortunate to be able to apply this mindest and problem solving skills across a number of different sized clients across a range of sectors. During my time at Makers - solving problems and analysing issues really helped my software development skills. I thrive and enjoy roles where I can analyse problems and come up with solutions. 
 
 ## Education
 
