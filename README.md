@@ -7,11 +7,9 @@
 
 </div>
 
-I am a motivated full-stack developer and recent graduate of Makers Academy. Before embarking on my career as a software developer I worked in finance and started my career at KPMG.
+A junior full-stack developer seeking an entry level position where I can apply my professional skill set and passion for technology. 
 
-Whilst working at a large tech firm I was lucky enough to work with Tech/Product teams which sparked my interest in software development. I am passionate about learning different technologies and improving my skills as a developer. 
-
-I am looking forward to sharing my skills and working as part of a team on interesting problems. 
+Prior to joining Makers Academy, a highly selective coding bootcamp,  I was a Big Four chartered accountant with experience working across teams in a leading global technology company. 
 
 Please find a [pdf version](https://docs.google.com/document/d/1EJOoCcIJob_1NkKgaRtXO5gRCLzXGvnRdn9VNmq2kEs/edit?usp=sharing) of my CV here. 
 
