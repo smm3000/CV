@@ -7,6 +7,7 @@
 A junior full-stack developer seeking an entry level position where I can apply my professional skill set and passion for technology. 
 Prior to joining Makers Academy, a highly selective coding bootcamp,  I was a Big Four chartered accountant with experience working across teams in a leading global technology company. 
 Please find a [pdf version](https://docs.google.com/document/d/1hWNY2YQIsTwELSqAQ6s7D-1DnR4vVuusybHovcjTPaY/edit?usp=sharing) of my CV here. 
+
 [Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) |  
 
 ## Projects
@@ -17,6 +18,16 @@ Please find a [pdf version](https://docs.google.com/document/d/1hWNY2YQIsTwELSqA
 | **[Makersbnb](https://github.com/smm3000/MakersBNB5)**  |  A webapp clone of AirBnB  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
 
 ## Work Experience
+
+Deloite Digital (Jul 2022 to Present) 
+*Software Developer* 
+* Developing full-stack applications in Java, working to business and client requirements. 
+* Created project documentation and technical specications for product releases 
+* Coordinated across multi-discipline team to test and debug software applications 
+* Familiarity with CI/CD methodology and experience overseeing releases 
+* Working collaboratively in an Agile environment, implementing best coding practices to improve project eectiveness 
+* Technology Stack: Java, Javascript, Html, CSS, Kubernetes, Helm, AWS
+
 Expedia (Mar 2020 to Nov 2021)  
 *Senior Finance Analyst*
 * Worked cross-functionally with Product & Technology teams to create and implement customer-focused solutions across different business areas.
@@ -45,6 +56,7 @@ KPMG (Oct 2015 to Feb 2020)
 * Throughout my previous roles, I have been able to develop the ability to analyse and solve complex problems. I have experience in applying this mindest and problem solving skills across a number of different sized clients across a range of sectors. During my time at Makers - solving problems and analysing issues helped my software development skills. I thrive and enjoy roles where I can analyse problems and come up with solutions. 
 
 ## Education
+
 #### Makers Academy (Nov 2021 to current)
 - TDD: Test Driven Development and Behaviour Driven Development
 - OOP: Using SOLID principles and applying OOD
@@ -53,8 +65,10 @@ KPMG (Oct 2015 to Feb 2020)
 - Databases: Using SQL and PostgreSQL for relational and non-relational
 - CI/CD: Using Github Actions to automate builds and run test suites
 - Pair Programming: Significant time spent collaborating and pairing with other developers
+
 #### ICAEW - ACA (2015 - 2019)
 - ACA - Professional Qualification as a Chartered Accountant.
+
 #### University of Kent / College (2011 - 2014)
 - Economics with Econometrics 
 - 2:1 
