@@ -6,7 +6,7 @@
 
 A junior full-stack developer seeking an entry level position where I can apply my professional skill set and passion for technology. 
 Prior to joining Makers Academy, a highly selective coding bootcamp,  I was a Big Four chartered accountant with experience working across teams in a leading global technology company. 
-Please find a [pdf version](https://docs.google.com/document/d/1EJOoCcIJob_1NkKgaRtXO5gRCLzXGvnRdn9VNmq2kEs/edit?usp=sharing) of my CV here. 
+Please find a [pdf version](https://docs.google.com/document/d/1hWNY2YQIsTwELSqAQ6s7D-1DnR4vVuusybHovcjTPaY/edit?usp=sharing) of my CV here. 
 [Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) |  
 
 ## Projects
