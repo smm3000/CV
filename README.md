@@ -33,6 +33,7 @@ Expedia (Mar 2020 to Nov 2021)
 * Worked cross-functionally with Product & Technology teams to create and implement customer-focused solutions across different business areas.
 * Oversaw process reviews, including creating and implementing procedures to minimise risk and promote consistency across brands. Worked collaboratively with various departments to assess and incorporate stakeholder priorities.
 * Led the coupon process redesign across Expedia Group. This project involved understanding and analysing customer experience, market needs, internal user requirements and risk. Final deliverables culminated in several product changes and new business processes. 
+
 KPMG (Oct 2015 to Feb 2020)  
 *Assistant Manager*
 
